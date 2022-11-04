@@ -1,1 +1,67 @@
 
+[    
+   {
+        "tipoChave": "EVP",
+       "conta": {
+            "id": 37895648,
+            "agencia": "067x",
+            "cliente": {
+                "id": 3655,
+                "tipoCliente": "PF",
+                "cpf": "xx649647xxx",
+                "cnpj": null,
+                "nome": "Clindomar Figueira",
+                "razaoSocial": null,
+                "nomeFantasia": null
+             },
+            "numeroConta": "000000xxx5310xxx",
+            "tipoConta": "CACC",
+            "participante": "003603xx",
+            "dataAbertura": "2013-11-05T00:00:00",
+            "produto": "0001",
+            "quantidadeChavesAtivasVinculadas": 1,
+            "tipoSistemaConta": null,
+            "tipoAtualizacaoConta": null,
+            "dataUltimaSituacao": null,
+            "canal": null,
+            "contaAnterior": null
+       },
+        "chave": "42fc7c4e-f846-473e-beab-a1d2cec2f9b0",
+        "dataCriacao": "2022-11-04T14:47:33.229Z",
+        "dataInativacao": null,
+        "proprietarioChaveDesde": "2022-11-04T14:47:33.229Z",
+        "tipoInativacaoChave": null
+   },
+{
+        "tipoChave": "EVP",
+       "conta": {
+            "id": 37895648,
+            "agencia": "067x",
+            "cliente": {
+                "id": 3655,
+                "tipoCliente": "PF",
+                "cpf": "xx649647xxx",
+                "cnpj": null,
+                "nome": "Clindomar Figueira",
+                "razaoSocial": null,
+                "nomeFantasia": null
+             },
+            "numeroConta": "000000xxx5310xxx",
+            "tipoConta": "CACC",
+            "participante": "003603xx",
+            "dataAbertura": "2013-11-05T00:00:00",
+            "produto": "0001",
+            "quantidadeChavesAtivasVinculadas": 1,
+            "tipoSistemaConta": null,
+            "tipoAtualizacaoConta": null,
+            "dataUltimaSituacao": null,
+            "canal": null,
+            "contaAnterior": null
+       },
+        "chave": "42fc7c4e-f846-473e-beab-a1d2cec2f9b0",
+        "dataCriacao": "2022-11-04T14:47:33.229Z",
+        "dataInativacao": null,
+        "proprietarioChaveDesde": "2022-11-04T14:47:33.229Z",
+        "tipoInativacaoChave": null
+   }
+]
